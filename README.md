@@ -1,6 +1,6 @@
 # projeto com README
 um projeto de teste com um arquivo README ✈
-<img src="../animação.gif" alt="git da tela home do github">
+<img src="./animação.gif" alt="git da tela home do github">
 
 ## tecnologias utilizadas
 - HTML
